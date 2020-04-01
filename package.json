@@ -1,0 +1,14 @@
+{
+  "name": "leon",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "Mehmet Taşkın",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.0.2"
+  }
+}
